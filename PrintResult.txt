@@ -1,0 +1,32 @@
+The expenses of the printing house are: 8954.0, and the income of the printing house is: 17598.600000000002!!!
+Thread-2:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+The expenses of the printing house are: 8954.0, and the income of the printing house is: 17598.600000000002!!!
+Thread-2:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-2:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-1:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: 24 часа, number of pages: 140, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Телеграф, number of pages: 470, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Труд, number of pages: 124, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Дневник, number of pages: 261, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
+Thread-0:5 Printing: Publication: Вести, number of pages: 280, paper size: The possible paper sizes are A1, A2, A3, A4, A5!.
